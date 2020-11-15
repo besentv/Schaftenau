@@ -11,8 +11,8 @@
     </Verknuepfte>
     <Verknuepfte>
       <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\1200\60_1200_1-18_5_Links_Betonschwellen.ls3" />
-      <p X="-523.9847" Y="-38.2979" Z="486.395" />
-      <phi Y="0.000402832" Z="-5.445239" />
+      <p X="-523.9847" Y="-38.2979" Z="486.3949" />
+      <phi Y="0.0003997803" Z="-5.445239" />
     </Verknuepfte>
     <Verknuepfte>
       <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\1200\60_1200_1-18_5_Rechts_Betonschwellen.ls3" />
@@ -22,7 +22,7 @@
     <Verknuepfte>
       <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\1200\60_1200_1-18_5_Rechts_Betonschwellen.ls3" />
       <p X="-629.3147" Y="-149.3417" Z="486.4565" />
-      <phi Y="0.0003997803" Z="-5.445239" />
+      <phi Y="0.000402832" Z="-5.445239" />
     </Verknuepfte>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
       <p X="2374.081" Y="2325.56" Z="483.8139" />
@@ -137,7 +137,7 @@
       <phi Z="3.180648" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="1774.442" Y="2145.829" Z="484.5994" />
+      <p X="1774.442" Y="2145.829" Z="484.5995" />
       <phi Z="0.05161454" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -273,8 +273,8 @@
       <phi Z="0.8379722" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="1140.283" Y="1821.488" Z="484.9965" />
-      <phi Z="3.97953" />
+      <p X="1140.36" Y="1821.485" Z="484.9964" />
+      <phi Z="3.979531" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
       <p X="1148.042" Y="1814.43" Z="484.9965" />
@@ -301,7 +301,7 @@
       <phi Z="3.979543" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="1030.198" Y="1683.507" Z="485.0675" />
+      <p X="1030.198" Y="1683.507" Z="485.0674" />
       <phi Z="0.8379351" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -329,7 +329,7 @@
       <phi Z="3.979531" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="875.8254" Y="1528.331" Z="485.1556" />
+      <p X="875.8254" Y="1528.331" Z="485.1555" />
       <phi Z="3.979547" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -341,7 +341,7 @@
       <phi Z="3.979548" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="843.064" Y="1475.72" Z="485.1802" />
+      <p X="843.064" Y="1475.72" Z="485.1801" />
       <phi Z="0.8379439" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -373,7 +373,7 @@
       <phi Z="0.8379393" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="689.8682" Y="1304.799" Z="485.2727" />
+      <p X="689.8682" Y="1304.799" Z="485.2726" />
       <phi Z="0.8379565" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -381,19 +381,19 @@
       <phi Z="3.979543" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="645.1259" Y="1270.59" Z="485.295" />
-      <phi Z="3.97954" />
+      <p X="645.0985" Y="1270.863" Z="485.2949" />
+      <phi Z="3.97953" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="652.9603" Y="1263.385" Z="485.295" />
-      <phi Z="0.8379326" />
+      <p X="652.9055" Y="1263.931" Z="485.2949" />
+      <phi Z="0.837956" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
       <p X="614.0309" Y="1220.5" Z="485.3184" />
       <phi Z="0.8379456" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="608.3604" Y="1229.619" Z="485.3172" />
+      <p X="608.3604" Y="1229.619" Z="485.3171" />
       <phi Z="3.979543" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -425,15 +425,15 @@
       <phi Z="3.979549" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="460.1263" Y="1049.278" Z="485.4112" />
+      <p X="460.1263" Y="1049.278" Z="485.4111" />
       <phi Z="0.8379245" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="460.1263" Y="1049.278" Z="485.4112" />
+      <p X="460.1263" Y="1049.278" Z="485.4111" />
       <phi Z="0.8379245" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="460.1263" Y="1049.278" Z="485.4112" />
+      <p X="460.1263" Y="1049.278" Z="485.4111" />
       <phi Z="0.8379245" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
@@ -445,7 +445,7 @@
       <phi Z="0.8379743" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="420.7182" Y="1005.283" Z="485.435" />
+      <p X="420.7182" Y="1005.283" Z="485.4349" />
       <phi Z="0.8379368" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -457,7 +457,7 @@
       <phi Z="3.979568" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
-      <p X="405.7868" Y="994.7144" Z="485.4422" />
+      <p X="405.7868" Y="994.7144" Z="485.4421" />
       <phi Z="0.8379131" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -469,7 +469,7 @@
       <phi Z="0.8379487" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="335.6151" Y="926.6521" Z="485.4815" />
+      <p X="335.6151" Y="926.6521" Z="485.4814" />
       <phi Z="3.979536" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -477,7 +477,7 @@
       <phi Z="0.8379403" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="299.0472" Y="887.819" Z="485.503" />
+      <p X="299.0472" Y="887.819" Z="485.5029" />
       <phi Z="3.979536" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -489,11 +489,11 @@
       <phi Z="3.979552" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="271.4562" Y="840.5169" Z="485.5246" />
+      <p X="271.4562" Y="840.5169" Z="485.5245" />
       <phi Z="0.8379509" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="226.8233" Y="807.5359" Z="485.5465" />
+      <p X="226.8233" Y="807.5359" Z="485.5464" />
       <phi Z="3.979543" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -505,7 +505,7 @@
       <phi Z="3.979557" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="193.2123" Y="754.0568" Z="485.5716" />
+      <p X="193.2123" Y="754.0568" Z="485.5715" />
       <phi Z="0.8379306" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -521,11 +521,11 @@
       <phi Z="3.979533" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="109.951" Y="661.7498" Z="485.6217" />
+      <p X="109.951" Y="661.7498" Z="485.6216" />
       <phi Z="0.8379403" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="62.2535" Y="623.9247" Z="485.6459" />
+      <p X="62.2535" Y="623.9247" Z="485.6458" />
       <phi Z="3.979555" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -533,7 +533,7 @@
       <phi Z="0.8379427" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="26.798" Y="584.367" Z="485.6673" />
+      <p X="26.798" Y="584.367" Z="485.6672" />
       <phi Z="3.97956" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -549,11 +549,11 @@
       <phi Z="0.8379355" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="-44.2384" Y="505.4957" Z="485.7101" />
+      <p X="-44.2384" Y="505.4957" Z="485.71" />
       <phi Z="3.979569" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="-34.4173" Y="500.6687" Z="485.7089" />
+      <p X="-34.4173" Y="500.6687" Z="485.7088" />
       <phi Z="0.8379628" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -569,11 +569,11 @@
       <phi Z="0.8379347" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="-114.6468" Y="427.5638" Z="485.7524" />
+      <p X="-114.6468" Y="427.5638" Z="485.7523" />
       <phi Z="3.979565" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="-106.5738" Y="420.9752" Z="485.7522" />
+      <p X="-106.5738" Y="420.9752" Z="485.7521" />
       <phi Z="0.8379458" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -581,7 +581,7 @@
       <phi Z="3.979544" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="-146.7367" Y="376.4085" Z="485.7764" />
+      <p X="-146.7367" Y="376.4085" Z="485.7763" />
       <phi Z="0.8379282" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -589,7 +589,7 @@
       <phi Z="3.979542" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
-      <p X="-184.4361" Y="331.0094" Z="485.8583" />
+      <p X="-184.4361" Y="331.0094" Z="485.8584" />
       <phi Z="0.8379533" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
@@ -617,7 +617,7 @@
       <phi Z="0.8379475" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Brücke_Einfangweg">
-      <p X="-314.6438" Y="197.2529" Z="486.2683" />
+      <p X="-314.6438" Y="197.2529" Z="486.2682" />
       <phi Z="0.8252741" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Brücke_Auweg">
@@ -641,7 +641,7 @@
       <phi Z="3.979532" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
-      <p X="-348.9706" Y="150.9332" Z="486.2914" />
+      <p X="-348.9706" Y="150.9332" Z="486.2913" />
       <phi Z="0.8378957" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
@@ -673,7 +673,7 @@
       <phi Z="0.8379161" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
-      <p X="-411.5938" Y="97.4832" Z="486.3242" />
+      <p X="-411.5938" Y="97.4832" Z="486.3241" />
       <phi Z="3.979524" />
     </Ankerpunkt>
     <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
@@ -691,6 +691,566 @@
     <Ankerpunkt AnkerKat="2" Beschreibung="">
       <p X="-3796.835" Y="249.2633" Z="490.8489" />
       <phi Z="4.073998" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-435.7676" Y="70.6536" Z="486.3387" />
+      <phi Z="3.97956" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-424.3289" Y="67.0077" Z="486.3367" />
+      <phi Z="0.8379576" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-452.1076" Y="52.28156" Z="486.3485" />
+      <phi Z="3.979573" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-456.55" Y="47.8065" Z="486.3511" />
+      <phi Z="3.979589" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_Transf">
+      <p X="-462.5288" Y="40.89933" Z="486.3547" />
+      <phi Z="3.979553" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-455.5162" Y="32.3165" Z="486.3554" />
+      <phi Z="0.8379653" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-457.8315" Y="29.8886" Z="486.3568" />
+      <phi Z="0.8379262" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-483.0083" Y="25.9691" Z="486.3647" />
+      <phi Z="3.979553" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-480.1623" Y="21.5778" Z="486.3653" />
+      <phi Z="3.979562" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-485.2392" Y="-0.4655" Z="486.3732" />
+      <phi Z="0.8379395" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-505.1771" Y="-6.3518" Z="486.3803" />
+      <phi Z="3.979537" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Quertr">
+      <p X="-512.8139" Y="-7.8582" Z="486.3828" />
+      <phi Z="3.979551" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="QuerTr">
+      <p X="-500.8279" Y="-18.45742" Z="486.3828" />
+      <phi Z="0.8379062" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Radspanner">
+      <p X="-504.1498" Y="-21.7366" Z="486.3846" />
+      <phi Z="0.8379274" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-527.1705" Y="-30.7566" Z="486.3935" />
+      <phi Z="3.979512" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-526.5632" Y="-46.90066" Z="486.3982" />
+      <phi Z="0.8379149" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-541.9148" Y="-39.6952" Z="486.4002" />
+      <phi Z="3.979548" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-529.8884" Y="-50.2573" Z="486.4001" />
+      <phi Z="0.8379665" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-550.6147" Y="-56.4213" Z="486.4075" />
+      <phi Z="3.979566" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-542.244" Y="-64.3061" Z="486.4076" />
+      <phi Z="0.8379273" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-556.1572" Y="-80.3095" Z="486.4161" />
+      <phi Z="0.837903" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-568.4785" Y="-76.804" Z="486.4184" />
+      <phi Z="3.979544" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-568.0505" Y="-92.591" Z="486.423" />
+      <phi Z="0.8379283" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-589.5024" Y="-100.3171" Z="486.4311" />
+      <phi Z="3.979559" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-596.173" Y="-101.0094" Z="486.4331" />
+      <phi Z="3.979573" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-593.8668" Y="-121.1084" Z="486.4385" />
+      <phi Z="0.8379496" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-598.9724" Y="-126.1774" Z="486.4414" />
+      <phi Z="0.837957" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-614.0275" Y="-126.7524" Z="486.4456" />
+      <phi Z="3.979573" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-618.537" Y="-131.4967" Z="486.4482" />
+      <phi Z="3.97958" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-622.7916" Y="-153.3801" Z="486.4559" />
+      <phi Z="0.8379526" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Radspanner">
+      <p X="-634.7767" Y="-149.2672" Z="486.4579" />
+      <phi Z="3.979558" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-640.5565" Y="-172.3297" Z="486.4663" />
+      <phi Z="0.8379455" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-646.1453" Y="-178.7379" Z="486.4698" />
+      <phi Z="0.8379385" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-660.7626" Y="-179.0593" Z="486.4738" />
+      <phi Z="3.979565" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-671.3686" Y="-207.0083" Z="486.485" />
+      <phi Z="0.8379309" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-686.4866" Y="-206.299" Z="486.4889" />
+      <phi Z="3.979545" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-677.3823" Y="-213.3599" Z="486.4885" />
+      <phi Z="0.8378878" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-688.6518" Y="-209.7818" Z="486.4905" />
+      <phi Z="3.979594" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ÜST">
+      <p X="-688.7267" Y="-215.2939" Z="486.4921" />
+      <phi Z="3.979593" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ÜST">
+      <p X="-687.2309" Y="-216.677" Z="486.4922" />
+      <phi Z="4.149073" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-709.6708" Y="-232.2465" Z="486.5028" />
+      <phi Z="3.979559" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast_H">
+      <p X="-698.1866" Y="-237.1929" Z="486.5012" />
+      <phi Z="0.8379227" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-718.7532" Y="-259.9872" Z="486.5136" />
+      <phi Z="0.8379264" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-726.9075" Y="-252.4999" Z="486.5135" />
+      <phi Z="3.979573" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Heißläufer">
+      <p X="-746.4117" Y="-279.6111" Z="486.5269" />
+      <phi Z="3.979439" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Heißläufer">
+      <p X="-743.5687" Y="-282.2156" Z="486.5269" />
+      <phi Z="0.8378407" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-767.6903" Y="-298.0644" Z="486.5381" />
+      <phi Z="3.97955" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-759.4956" Y="-305.5145" Z="486.5381" />
+      <phi Z="0.8379154" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-805.0106" Y="-339.7729" Z="486.5606" />
+      <phi Z="3.979558" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-797.0727" Y="-346.8628" Z="486.5606" />
+      <phi Z="0.8379704" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-831.2244" Y="-384.3148" Z="486.581" />
+      <phi Z="0.8379121" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-838.9764" Y="-377.4269" Z="486.581" />
+      <phi Z="3.979531" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-877.2226" Y="-419.9125" Z="486.604" />
+      <phi Z="3.979517" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-869.1296" Y="-427.0087" Z="486.6039" />
+      <phi Z="0.8379203" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-914.6511" Y="-461.4222" Z="486.634" />
+      <phi Z="3.979575" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-906.5678" Y="-468.7512" Z="486.6341" />
+      <phi Z="0.8379133" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-944.4456" Y="-509.8539" Z="486.8278" />
+      <phi Z="0.8379226" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-950.1619" Y="-500.7207" Z="486.8173" />
+      <phi Z="3.979519" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-986.6567" Y="-542.192" Z="487.0138" />
+      <phi Z="3.979594" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-980.7966" Y="-551.603" Z="487.0247" />
+      <phi Z="0.8379526" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1024.388" Y="-583.2347" Z="487.2121" />
+      <phi Z="3.979533" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1016.615" Y="-590.5508" Z="487.2129" />
+      <phi Z="0.8378972" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1064.939" Y="-628.809" Z="487.4291" />
+      <phi Z="3.979585" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1057.358" Y="-636.0781" Z="487.4303" />
+      <phi Z="0.8379149" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1106.358" Y="-674.7352" Z="487.6491" />
+      <phi Z="3.979535" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1098.541" Y="-681.9365" Z="487.6495" />
+      <phi Z="0.8379337" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1144.147" Y="-716.5018" Z="487.8495" />
+      <phi Z="3.979595" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1135.858" Y="-723.5674" Z="487.8484" />
+      <phi Z="0.8379588" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1185.417" Y="-762.5895" Z="488.0695" />
+      <phi Z="3.979601" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1177.284" Y="-769.6487" Z="488.0688" />
+      <phi Z="0.8379206" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1218.816" Y="-815.9392" Z="488.2901" />
+      <phi Z="0.837953" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1226.619" Y="-808.4277" Z="488.2888" />
+      <phi Z="3.979576" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1263.411" Y="-849.5757" Z="488.4851" />
+      <phi Z="3.979522" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1257.354" Y="-858.9174" Z="488.4954" />
+      <phi Z="0.8379197" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1300.927" Y="-891.3151" Z="488.6848" />
+      <phi Z="3.979521" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1295.143" Y="-900.6841" Z="488.6958" />
+      <phi Z="0.8379086" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
+      <p X="-1333.207" Y="-931.3699" Z="488.8675" />
+      <phi Z="3.979515" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Vsig">
+      <p X="-1331.708" Y="-932.6754" Z="488.8674" />
+      <phi Z="3.992257" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1339.11" Y="-933.2206" Z="488.8864" />
+      <phi Z="3.979521" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1331.266" Y="-940.6949" Z="488.8875" />
+      <phi Z="0.8379028" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1379.436" Y="-978.0663" Z="489.101" />
+      <phi Z="3.979558" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1371.238" Y="-985.8412" Z="489.1021" />
+      <phi Z="0.8379474" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1407.6" Y="-1025.595" Z="489.2937" />
+      <phi Z="0.8379591" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1415.609" Y="-1018.347" Z="489.2936" />
+      <phi Z="3.979518" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
+      <p X="-1421.776" Y="-1035.8" Z="489.3544" />
+      <phi Z="0.8378643" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
+      <p X="-1424.686" Y="-1032.96" Z="489.3538" />
+      <phi Z="3.979649" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1448.331" Y="-1073.647" Z="489.5463" />
+      <phi Z="0.8379084" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1458.464" Y="-1064.252" Z="489.5453" />
+      <phi Z="3.979551" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1500.99" Y="-1111.083" Z="489.8404" />
+      <phi Z="3.954293" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1490.496" Y="-1120.222" Z="489.8375" />
+      <phi Z="0.8073469" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1540.003" Y="-1154.275" Z="490.1108" />
+      <phi Z="3.962919" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1529.758" Y="-1163.791" Z="490.1118" />
+      <phi Z="0.8513856" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1572.875" Y="-1209.899" Z="490.3473" />
+      <phi Z="0.8538714" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1578.612" Y="-1200.338" Z="490.3361" />
+      <phi Z="3.995451" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1608.753" Y="-1251.762" Z="490.5267" />
+      <phi Z="0.8563238" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1615.119" Y="-1242.267" Z="490.517" />
+      <phi Z="3.995643" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1647.005" Y="-1298.63" Z="490.7245" />
+      <phi Z="0.9030595" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1653.919" Y="-1289.629" Z="490.7154" />
+      <phi Z="4.04248" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1681.03" Y="-1343.138" Z="490.9076" />
+      <phi Z="0.9462811" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1687.561" Y="-1334.466" Z="490.8972" />
+      <phi Z="4.085425" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1712.916" Y="-1388.88" Z="491.0898" />
+      <phi Z="0.9892733" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1719.501" Y="-1379.77" Z="491.0769" />
+      <phi Z="4.127863" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1739.862" Y="-1431.467" Z="491.2545" />
+      <phi Z="1.028173" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1748.972" Y="-1426.418" Z="491.2557" />
+      <phi Z="4.170083" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1768.729" Y="-1481.985" Z="491.4446" />
+      <phi Z="1.073079" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1778.003" Y="-1477.046" Z="491.4449" />
+      <phi Z="4.214748" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1804.895" Y="-1528.743" Z="491.6338" />
+      <phi Z="4.259319" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1795.511" Y="-1533.737" Z="491.635" />
+      <phi Z="1.118032" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1816.365" Y="-1579.233" Z="491.7986" />
+      <phi Z="1.15667" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1826.354" Y="-1575.062" Z="491.7992" />
+      <phi Z="4.298434" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1847.208" Y="-1625.222" Z="491.9752" />
+      <phi Z="4.339968" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1838.811" Y="-1632.851" Z="491.9885" />
+      <phi Z="1.201487" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1857.581" Y="-1684.658" Z="492.1906" />
+      <phi Z="1.244024" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1866.581" Y="-1678.401" Z="492.1789" />
+      <phi Z="4.383282" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1866.581" Y="-1678.401" Z="492.1789" />
+      <phi Z="4.383282" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1883.21" Y="-1729.413" Z="492.3866" />
+      <phi Z="4.424367" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1872.892" Y="-1733.008" Z="492.3886" />
+      <phi Z="1.283126" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1887.078" Y="-1785.583" Z="492.6012" />
+      <phi Z="1.325167" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1897.451" Y="-1783.224" Z="492.6021" />
+      <phi Z="4.466928" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1899.262" Y="-1839.092" Z="492.8154" />
+      <phi Z="1.367505" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1909.799" Y="-1836.677" Z="492.8145" />
+      <phi Z="4.508929" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="SBL">
+      <p X="-1913.805" Y="-1874.435" Z="492.9612" />
+      <phi Z="4.537906" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="SBL">
+      <p X="-1909.799" Y="-1875.203" Z="492.9614" />
+      <phi Z="1.396323" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1908.537" Y="-1890.789" Z="493.0204" />
+      <phi Z="1.408023" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1919.074" Y="-1888.978" Z="493.0201" />
+      <phi Z="4.549567" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1926.757" Y="-1943.255" Z="493.2325" />
+      <phi Z="4.591489" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1916.549" Y="-1944.407" Z="493.2321" />
+      <phi Z="1.449834" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="SBL">
+      <p X="-1920.556" Y="-1948.468" Z="493.2497" />
+      <phi Z="1.453354" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="SBL">
+      <p X="-1924.562" Y="-1947.81" Z="493.249" />
+      <phi Z="4.594805" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1932.739" Y="-2000.056" Z="493.4447" />
+      <phi Z="4.635207" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1921.873" Y="-2000.934" Z="493.4448" />
+      <phi Z="1.493673" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1936.855" Y="-2058.833" Z="493.6061" />
+      <phi Z="4.641073" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1925.605" Y="-2059.876" Z="493.6069" />
+      <phi Z="1.509416" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1927.416" Y="-2106.469" Z="493.7343" />
+      <phi Z="1.489281" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1939.38" Y="-2109.927" Z="493.7461" />
+      <phi Z="4.654898" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1939.38" Y="-2109.927" Z="493.7461" />
+      <phi Z="4.654898" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1929.584" Y="-2161.514" Z="493.8781" />
+      <phi Z="1.497634" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1940.752" Y="-2164.67" Z="493.8804" />
+      <phi Z="-1.567544" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1942.096" Y="-2206.969" Z="493.8944" />
+      <phi Z="4.686329" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1931.12" Y="-2204.966" Z="493.8937" />
+      <phi Z="1.544714" />
     </Ankerpunkt>
   </Landschaft>
 </Zusi>
