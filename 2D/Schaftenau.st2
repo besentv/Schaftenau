@@ -143,7 +143,7 @@
       <Bild Transparenz="255" Sichtbar="1">
         <Datei Dateiname="Routes\Oesterreich\33T_0003_0053\000284_005271_Schaftenau\46_georef.trf" />
       </Bild>
-      <Bild Transparenz="255" Sichtbar="1">
+      <Bild Transparenz="255">
         <Datei Dateiname="Routes\Oesterreich\33T_0003_0053\000284_005271_Schaftenau\schaftenau_uebersicht_georef.trf" />
       </Bild>
     </HGBilder>
@@ -835,7 +835,7 @@
         <PunktWinkel X="1257.06" Y="2021.412" W="4.562057" />
       </Gerade>
       <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="Default">
-        <PunktWinkel X="993.1492" Y="1663.511" W="0.8367179" />
+        <PunktWinkel X="996.1848" Y="1666.875" W="0.8367182" />
         <PunktWinkel X="1194.865" Y="1887.071" W="3.978311" />
       </Gerade>
       <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="Default" kr="0.06089461" WinkelAnf="0.09415813" WinkelLauf="-0.8282353">
@@ -846,10 +846,6 @@
       <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="Default">
         <PunktWinkel X="1196.702" Y="1889.107" W="-2.304865" />
         <PunktWinkel X="1194.865" Y="1887.071" W="0.8367273" />
-      </Gerade>
-      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="Default">
-        <PunktWinkel X="992.8052" Y="1663.298" W="2.516665" />
-        <PunktWinkel X="950.3889" Y="1693.896" W="5.658257" />
       </Gerade>
       <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="Default">
         <PunktWinkel X="-1948.957" Y="-2077.794" W="2.683545" />
@@ -1897,6 +1893,160 @@
       <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
         <PunktWinkel X="-1578.612" Y="-1200.338" />
       </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1608.753" Y="-1251.762" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1615.119" Y="-1242.267" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1647.005" Y="-1298.63" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1653.919" Y="-1289.629" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1681.03" Y="-1343.138" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1687.561" Y="-1334.466" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1712.916" Y="-1388.88" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1719.501" Y="-1379.77" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1739.862" Y="-1431.467" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1748.972" Y="-1426.418" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1768.729" Y="-1481.985" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1778.003" Y="-1477.046" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1804.895" Y="-1528.743" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1795.511" Y="-1533.737" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1816.365" Y="-1579.233" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1826.354" Y="-1575.062" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1847.208" Y="-1625.222" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1838.811" Y="-1632.851" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1857.581" Y="-1684.658" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1866.581" Y="-1678.401" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1866.581" Y="-1678.401" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1883.21" Y="-1729.413" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1872.892" Y="-1733.008" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1887.078" Y="-1785.583" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1897.451" Y="-1783.224" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1899.262" Y="-1839.092" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1909.799" Y="-1836.677" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SBL">
+        <PunktWinkel X="-1913.805" Y="-1874.435" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SBL">
+        <PunktWinkel X="-1909.799" Y="-1875.203" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1908.537" Y="-1890.789" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1919.074" Y="-1888.978" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1926.757" Y="-1943.255" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1916.549" Y="-1944.407" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SBL">
+        <PunktWinkel X="-1920.556" Y="-1948.468" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SBL">
+        <PunktWinkel X="-1924.562" Y="-1947.81" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1932.739" Y="-2000.056" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1921.873" Y="-2000.934" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1936.855" Y="-2058.833" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1925.605" Y="-2059.876" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1927.416" Y="-2106.469" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1939.38" Y="-2109.927" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1939.38" Y="-2109.927" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1929.584" Y="-2161.514" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1940.752" Y="-2164.67" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1942.096" Y="-2206.969" />
+      </Punkt>
+      <Punkt ProfilName="Schaftenau" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-1931.12" Y="-2204.966" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="989.8262" Y="1665.354" W="2.512161" />
+        <PunktWinkel X="949.3221" Y="1694.851" W="5.653754" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="996.1848" Y="1666.875" W="-2.30491" />
+        <PunktWinkel X="995.3281" Y="1665.926" W="0.836683" />
+      </Gerade>
+      <Klothoide st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" L="3.210224" R="-2.189561">
+        <PunktWinkel X="995.3278" Y="1665.926" W="-2.304874" />
+        <PunktWinkel X="992.7295" Y="1664.173" W="0.1036434" />
+      </Klothoide>
+      <Klothoide st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" L="3.210224" R="2.189561">
+        <PunktWinkel X="989.8262" Y="1665.354" W="-0.6294315" />
+        <PunktWinkel X="992.7296" Y="1664.173" W="3.245236" />
+      </Klothoide>
     </Lageplan>
     <HoehenProfil ProfilName="Schaftenau" ProfilFarbe="FF0000FF" ProfilAbstandHorizontKm="2" ProfilGleisElementeZeichnen="1">
       <StuetzPkt Y="483.7849" Radius="5000" />
